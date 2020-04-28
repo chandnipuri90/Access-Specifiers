@@ -1,0 +1,10 @@
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\bin\Debug\Assemblyone.dll
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\bin\Debug\Assemblyone.pdb
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\obj\Debug\Assemblyone.csproj.CoreCompileInputs.cache
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\obj\Debug\Assemblyone.dll
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\obj\Debug\Assemblyone.pdb
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\bin\Debug\ConsoleApp1.exe
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\bin\Debug\ConsoleApp1.pdb
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\bin\Debug\ConsoleApp1.exe.config
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\obj\Debug\Assemblyone.csprojAssemblyReference.cache
+C:\Users\chandni1\source\repos\ConsoleApp1\Assemblyone\obj\Debug\Assemblyone.csproj.CopyComplete

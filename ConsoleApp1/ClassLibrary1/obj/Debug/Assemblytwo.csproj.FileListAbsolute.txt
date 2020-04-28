@@ -1,0 +1,9 @@
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\Assemblyone.dll
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\Assemblyone.pdb
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Assemblytwo.csprojAssemblyReference.cache
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Assemblytwo.csproj.CoreCompileInputs.cache
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Assemblytwo.csproj.CopyComplete
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\chandni1\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
